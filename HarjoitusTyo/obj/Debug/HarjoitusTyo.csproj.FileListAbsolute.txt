@@ -1,0 +1,56 @@
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\bin\Debug\HarjoitusTyo.exe.config
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\bin\Debug\HarjoitusTyo.exe
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\bin\Debug\HarjoitusTyo.pdb
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.csprojResolveAssemblyReference.cache
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.Properties.Resources.resources
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.csproj.GenerateResource.Cache
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.csproj.CoreCompileInputs.cache
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.exe
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.pdb
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.Aloitus.resources
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.HenkiloLisays.resources
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.ProjektiLisays.resources
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.TehtavaLisays.resources
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\bin\Debug\Harjoitustyo.mdf
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\bin\Debug\Harjoitustyo_log.ldf
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\bin\Debug\MySql.Data.xml
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.HenkiloTarkastelu.resources
+Z:\Windows ja Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.ProjektiTarkastelu.resources
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.csprojResolveAssemblyReference.cache
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.Aloitus.resources
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.HenkiloLisays.resources
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.HenkiloTarkastelu.resources
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.ProjektiLisays.resources
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.ProjektiTarkastelu.resources
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.Properties.Resources.resources
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.TehtavaLisays.resources
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.csproj.GenerateResource.Cache
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.csproj.CoreCompileInputs.cache
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.exe
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.pdb
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\bin\Debug\Harjoitustyo.mdf
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\bin\Debug\Harjoitustyo_log.ldf
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\bin\Debug\HarjoitusTyo.exe.config
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\bin\Debug\HarjoitusTyo.exe
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\bin\Debug\HarjoitusTyo.pdb
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\bin\Debug\MySql.Data.dll
+E:\C#_projektit\HarjoitusTyo\HarjoitusTyo\bin\Debug\MySql.Data.xml
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\bin\Debug\HarjoitusTyo.exe.config
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\bin\Debug\HarjoitusTyo.exe
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\bin\Debug\HarjoitusTyo.pdb
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\bin\Debug\MySql.Data.xml
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.csprojResolveAssemblyReference.cache
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.Aloitus.resources
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.HenkiloLisays.resources
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.HenkiloTarkastelu.resources
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.ProjektiLisays.resources
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.ProjektiTarkastelu.resources
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.Properties.Resources.resources
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.TehtavaLisays.resources
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.csproj.GenerateResource.Cache
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.csproj.CoreCompileInputs.cache
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.exe
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.pdb
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.TehtavaTarkastelu.resources
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.HenkiloProjektiin.resources
+C:\Users\Sirpa\Desktop\Windows-Linux ohjelmointi\HarjoitusTyo\HarjoitusTyo\obj\Debug\HarjoitusTyo.TehtavaProjektiin.resources
